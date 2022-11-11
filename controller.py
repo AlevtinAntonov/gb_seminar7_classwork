@@ -31,5 +31,6 @@ def run():
                 result = model.sub()
             case '5':
                 exit()
+
         view.show(result)
         logger.calculation_logger(result)
