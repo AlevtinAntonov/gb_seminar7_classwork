@@ -1,7 +1,7 @@
 # Отображение, фронт-енд
 
 def show(data):
-    print(data)
+    print('Результат:', data)
 
 
 def show_menu():
